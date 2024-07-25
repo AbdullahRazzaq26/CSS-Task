@@ -1,0 +1,206 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Arial, Helvetica;
+}
+
+.nav {
+    background-color: rgb(55, 56, 76);
+    height: 75px;
+}
+
+.logo img {
+    width: 75px;
+    display: inline-block;
+    padding-left: 25px;
+    padding-top: 10px;
+
+}
+
+.logo h1 {
+    display: inline-block;
+    font-size: 25px;
+    text-align: center;
+    padding-left: 15px;
+    color: rgb(214, 209, 209);
+}
+
+.links {
+    display: inline-block;
+    margin-left: 75%;
+    position: absolute;
+    top: 25px;
+}
+
+.links li {
+    display: inline-block;
+    margin-left: 75px;
+    font-size: 23px;
+    color: white;
+    cursor: pointer;
+}
+
+.links li:hover {
+    text-decoration: underline;
+    color: rgb(220, 219, 218);
+}
+
+.slider img {
+    width: 100%;
+    height: 850px;
+}
+
+.slidertxt {
+    font-size: 35px;
+    position: absolute;
+    top: 35%;
+    left: 30%;
+    color: white;
+}
+
+.slidertxt h1 {
+    font-size: 100px;
+}
+
+.effect {
+    height: 850px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.546);
+    position: absolute;
+}
+
+.about {
+    height: 820px;
+    width: 100%;
+    background-color: rgba(255, 218, 185, 0.684);
+    padding-left: 150px;
+    display: inline-block;
+    padding-top: 120px;
+}
+
+.about h1 {
+    font-size: 75px;
+}
+
+.about p {
+    font-size: 27px;
+    padding-top: 15px;
+    line-height: 1.5;
+}
+
+.imgs img {
+    display: inline-block;
+    width: 350px;
+    height: 250px;
+    margin-left: 15px;
+
+}
+
+.imgs li {
+    display: inline-block;
+    list-style-type: none;
+    padding-top: 75px;
+}
+
+.menu {
+    height: 1620px;
+    width: 100%;
+    background-color: rgb(55, 56, 76);
+    padding-left: 150px;
+    display: inline-block;
+    padding-top: 120px;
+    color: white;
+    position: relative;
+}
+
+.menu h1 {
+    font-size: 70px;
+}
+
+.menu p {
+    font-size: 27px;
+    padding-top: 15px;
+    line-height: 1.5;
+}
+
+.drinks {
+    display: inline-block;
+    position: absolute;
+    top: 470px;
+
+}
+
+.drinks p {
+    text-align: center;
+    font-size: 35px;
+
+}
+
+.drinks img {
+    display: inline-block;
+    width: 730px;
+    height: 680px;
+}
+
+.food img {
+    display: inline-block;
+    width: 730px;
+    height: 680px;
+}
+
+.food {
+    display: inline-block;
+    margin-left: 820px;
+    position: absolute;
+    top: 470px;
+}
+
+.food p {
+    text-align: center;
+    font-size: 35px;
+}
+
+.food h1 {
+    text-align: center;
+}
+
+.drinks h1 {
+    text-align: center;
+}
+
+.location {
+    height: 1070px;
+    width: 100%;
+    background-color: rgba(255, 218, 185, 0.684);
+    padding-left: 150px;
+    display: inline-block;
+    padding-top: 120px;
+}
+
+.location h1 {
+    font-size: 55px;
+    margin-bottom: 55px;
+}
+
+.hours {
+    display: inline-block;
+    position: absolute;
+    padding-left: 50px;
+}
+
+.hours h2 {
+    font-size: 35px;
+}
+
+.hours p {
+    font-size: 25px;
+    line-height: 1.6;
+}
+footer {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    width: 100%;
+    font-size: 20px;
+    margin-top: 190px;
+}
