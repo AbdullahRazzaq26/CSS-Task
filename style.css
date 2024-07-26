@@ -7,22 +7,19 @@
 
 .nav {
     background-color: rgb(55, 56, 76);
-    height: 75px;
+    height: 8vh;
 }
 
 .logo img {
-    width: 75px;
+    width: 8vh;
     display: inline-block;
-    padding-left: 25px;
-    padding-top: 10px;
-
+    padding-left: 3vh;
 }
 
 .logo h1 {
     display: inline-block;
-    font-size: 25px;
+    font-size: 2.8vh;
     text-align: center;
-    padding-left: 15px;
     color: rgb(214, 209, 209);
 }
 
@@ -30,13 +27,13 @@
     display: inline-block;
     margin-left: 75%;
     position: absolute;
-    top: 25px;
+    top: 2.5vh;
 }
 
 .links li {
     display: inline-block;
-    margin-left: 75px;
-    font-size: 23px;
+    margin-left: 5vh;
+    font-size: 2.5vh;
     color: white;
     cursor: pointer;
 }
@@ -48,11 +45,11 @@
 
 .slider img {
     width: 100%;
-    height: 850px;
+    height: 88vh;
 }
 
 .slidertxt {
-    font-size: 35px;
+    font-size: 3.8vh;
     position: absolute;
     top: 35%;
     left: 30%;
@@ -60,105 +57,105 @@
 }
 
 .slidertxt h1 {
-    font-size: 100px;
+    font-size: 10.2vh;
 }
 
 .effect {
-    height: 850px;
+    height: 88vh;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.546);
     position: absolute;
 }
 
 .about {
-    height: 820px;
+    height: 92vh;
     width: 100%;
     background-color: rgba(255, 218, 185, 0.684);
-    padding-left: 150px;
+    padding-left: 15.5vh;
     display: inline-block;
-    padding-top: 120px;
+    padding-top: 12.5vh;
 }
 
 .about h1 {
-    font-size: 75px;
+    font-size: 7.6vh;
 }
 
 .about p {
-    font-size: 27px;
-    padding-top: 15px;
+    font-size: 2.9vh;
+    padding-top: 5vh;
     line-height: 1.5;
 }
 
 .imgs img {
     display: inline-block;
-    width: 350px;
-    height: 250px;
-    margin-left: 15px;
+    width: 37vh;
+    height: 28vh;
+    margin-left: 2vh;
 
 }
 
 .imgs li {
     display: inline-block;
     list-style-type: none;
-    padding-top: 75px;
+    padding-top: 6vh;
 }
 
 .menu {
-    height: 1620px;
+    height: 180vh;
     width: 100%;
     background-color: rgb(55, 56, 76);
-    padding-left: 150px;
+    padding-left: 15.5vh;
     display: inline-block;
-    padding-top: 120px;
+    padding-top: 15.5vh;
     color: white;
     position: relative;
 }
 
 .menu h1 {
-    font-size: 70px;
+    font-size: 7.6vh;
 }
 
 .menu p {
-    font-size: 27px;
-    padding-top: 15px;
+    font-size: 2.9vh;
+    padding-top: 5vh;
     line-height: 1.5;
 }
 
 .drinks {
     display: inline-block;
     position: absolute;
-    top: 470px;
+    top: 57vh;
 
 }
 
 .drinks p {
     text-align: center;
-    font-size: 35px;
+    font-size: 4vh;
 
 }
 
 .drinks img {
     display: inline-block;
-    width: 730px;
-    height: 680px;
+    width: 71vh;
+    height: 70.9vh;
 }
 
 .food img {
     display: inline-block;
-    width: 730px;
-    height: 680px;
+    width: 71vh;
+    height: 70.9vh;
 }
 
 .food {
     display: inline-block;
-    margin-left: 820px;
+    margin-left: 85vh;
     position: absolute;
-    top: 470px;
+    top: 57vh;
 }
 
 .food p {
     text-align: center;
-    font-size: 35px;
+    font-size: 4vh;
 }
 
 .food h1 {
@@ -170,37 +167,43 @@
 }
 
 .location {
-    height: 1070px;
+    height: 113.5vh;
     width: 100%;
     background-color: rgba(255, 218, 185, 0.684);
-    padding-left: 150px;
+    padding-left: 15.5vh;
     display: inline-block;
-    padding-top: 120px;
+    padding-top: 15.5vh;
+}
+
+.location iframe {
+    width: 80vh;
+    height: 63vh;
 }
 
 .location h1 {
-    font-size: 55px;
-    margin-bottom: 55px;
+    font-size: 6.2vh;
+    margin-bottom: 5.5vh;
 }
 
 .hours {
     display: inline-block;
     position: absolute;
-    padding-left: 50px;
+    padding-left: 5vh;
 }
 
 .hours h2 {
-    font-size: 35px;
+    font-size: 4vh;
 }
 
 .hours p {
-    font-size: 25px;
+    font-size: 3vh;
     line-height: 1.6;
 }
+
 footer {
     text-align: center;
     color: rgb(0, 0, 0);
     width: 100%;
-    font-size: 20px;
-    margin-top: 190px;
+    font-size: 2.5vh;
+    margin-top: 19vh;
 }
